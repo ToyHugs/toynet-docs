@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktoynet_docs=self.webpackChunktoynet_docs||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/toynet-docs/blog","blogTitle":"Blog","authorsListPath":"/toynet-docs/blog/authors"}')}}]);
